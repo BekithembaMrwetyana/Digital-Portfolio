@@ -2,7 +2,7 @@
 
 Hi, I'm **Bekithemba Mrwetyana**, a final-year student pursuing a Diploma in ICT Applications Development at CPUT. This digital portfolio showcases my growth and experiences during the Work Readiness Program as part of the PRP370-1-2S module.
 
-It includes key reflections and evidence from career development activities, skills assessments, personality profiling, and professional CV creation. Each section is supported by screenshots and structured using the **STAR technique** to highlight my readiness for the professional environment, along with the values and strengths I bring to the ICT industry.
+It includes key reflections and evidence from career development activities, skills assessments, personality profiling, and professional CV creation. Each section is supported by screenshots and structured using the **STAR technique** to highlight my readiness for the professional environment, along with the values and strengths I will bring to the ICT industry.
 
 ---
 
@@ -57,7 +57,7 @@ It includes key reflections and evidence from career development activities, ski
 - **S** – The *Personality Assessment* section helped me reflect on my personality traits, preferences for work environments, and energy sources (e.g., introversion/extroversion).  
 - **T** – I needed to evaluate how my personality affects my job satisfaction and team compatibility.  
 - **A** – Through the quizzes and reflection prompts, I identified myself as being analytical, autonomous, and highly focused on structure. I realized I work best in calm, structured environments with some autonomy.  
-- **R** – I now understand that I thrive in roles that require problem-solving, strategy, and independent work — which reinforces my interest in backend and systems development.
+- **R** – I now understand that I thrive in roles that require problem-solving, strategy, and independent work — which reinforces my interest in software and systems development.
 
 ---
 
@@ -69,10 +69,10 @@ It includes key reflections and evidence from career development activities, ski
 
 ### 🌟 STAR Reflection
 
-- **S** – In the *CV Building* module, I learned how to format, style, and tailor a CV like a marketing tool — not just a summary.  
+- **S** – In the *Create a CV* section, I learned how to format, style, and tailor a CV like a marketing tool — not just a summary.  
 - **T** – The objective was to draft a clean, compelling, and relevant CV that presents my best skills and experience clearly.  
 - **A** – I followed the provided templates, used action verbs, focused on project-based evidence, and included tech stacks and GitHub links.  
-- **R** – I produced a professional CV that meets industry standards and reflects my current skills, education, and career focus.
+- **R** – I produced a professional CV that reflects my current skills, education, and career focus.
 
 ---
 
@@ -88,14 +88,35 @@ It includes key reflections and evidence from career development activities, ski
 
 - **S** – After applying feedback and polishing my draft, I finalized my CV as part of the submission requirement.  
 - **T** – I had to ensure my final CV clearly communicated my readiness for the workplace.  
-- **A** – I made improvements like adding a strong personal profile, quantifying accomplishments in projects, and aligning skills with roles I’m targeting.  
-- **R** – I now have a complete, recruiter-ready CV tailored to ICT development roles, and I’m confident using it for internship/job applications.
+- **A** – I made improvements like adding a strong personal profile, and aligning skills with roles I’m targeting.  
+- **R** – I now have a complete, recruiter-ready CV tailored to ICT development roles, and I am confident using it for internship or job applications.
+
+---
+---
+
+## 🧾 Digital Portfolio Summary
+
+This digital portfolio represents a comprehensive journey through my personal and professional development during the Work Readiness Programme of the PRP370-1-2S module at CPUT.
+
+Each section includes meaningful evidence—from screenshots of Blackboard activities to practical outputs like my CV—and is accompanied by structured STAR reflections that demonstrate my ability to analyze, learn, and grow from each experience.
+
+### Key Highlights:
+
+- 🧭 **Career Counselling**: I explored my personal values and career goals, leading to the development of a clear and motivating career roadmap.
+- 🛠️ **Skills and Interests**: Through assessments and guided exercises, I identified my strengths and aligned them with suitable roles in the ICT field.
+- 🧬 **Personality Assessment**: I gained deeper insight into how my personality traits influence teamwork, problem-solving, and workplace preferences.
+- 📄 **CV Creation**: I developed and refined a professional CV that accurately represents my academic background, technical skills, and project experience.
+- ✅ **Final Submission**: I finalized my CV to meet industry standards and ensure I am job-ready for internships and future employment.
+
+### Learning & Experience:
+
+Through this process, I’ve improved not only my self-awareness but also critical workplace competencies such as career planning, reflective thinking, and personal branding. This portfolio is a reflection of the knowledge, effort, and growth I’ve achieved in preparation for transitioning into the ICT industry.
 
 ---
 
 ## 📬 Contact Information
 
-- **Student Email**: 222706066@mysput.ac.za  
+- **Student Email**: 222706066@mycput.ac.za  
 - **Personal Email**: mrwetyanabekithemba69@gmail.com  
 - **LinkedIn**: [linkedin.com/in/bekithemba-mrwetyana-663861279](https://www.linkedin.com/in/bekithemba-mrwetyana-663861279)  
 

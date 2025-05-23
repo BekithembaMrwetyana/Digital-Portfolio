@@ -26,7 +26,7 @@ It includes key reflections and evidence from career development activities, ski
 
 - **S** – I engaged with the *Career Development* section on Blackboard, which emphasized understanding my goals, values, and strengths through reflective exercises, SMART goal-setting, and career planning strategies.  
 - **T** – I needed to develop a career development plan that aligns with my core values and long-term aspirations.  
-- **A** – I identified my values (growth, creativity, freedom), outlined SMART goals (e.g., "Become a junior full-stack developer within 2 years"), and explored possible career paths like backend development and DevOps.  
+- **A** – I identified my values (growth, creativity, freedom), outlined SMART goals, and explored possible career paths like software development and web development.  
 - **R** – I now have a personalized, realistic, and motivating career roadmap and I’ve started identifying opportunities (like internships) that match this path.
 
 ---
@@ -41,8 +41,8 @@ It includes key reflections and evidence from career development activities, ski
 
 - **S** – In the *Skills & Interests* topic, I completed value identification exercises and took a quiz to classify my vocational interests using the Holland Code (RIASEC model).  
 - **T** – My goal was to understand which skills and interests make me fulfilled and how they match real-world ICT roles.  
-- **A** – I discovered that I’m primarily **Investigative**, **Realistic**, and **Enterprising**. I enjoy problem-solving, building solutions, and leading mini-projects. I aligned this insight with career options like software engineer, data analyst, and system architect.  
-- **R** – I gained a clearer understanding of what makes me engaged and happy at work. This informed how I structured my CV and what kind of work environments I aim for.
+- **A** – I discovered that I enjoy problem-solving, and building solutions. I aligned this insight with career options like software engineer, web developer.  
+- **R** – I gained a clearer understanding of what makes me engaged and happy at working on a project. This informed how I structured my CV and what kind of work environments I aim for.
 
 ---
 
@@ -56,7 +56,7 @@ It includes key reflections and evidence from career development activities, ski
 
 - **S** – The *Personality Assessment* section helped me reflect on my personality traits, preferences for work environments, and energy sources (e.g., introversion/extroversion).  
 - **T** – I needed to evaluate how my personality affects my job satisfaction and team compatibility.  
-- **A** – Through the quizzes and reflection prompts, I identified myself as being analytical, autonomous, and highly focused on structure. I realized I work best in calm, structured environments with some autonomy.  
+- **A** – Through the quizzes and reflection prompts, I identified myself as being someone who is highly focused on structure. I realized I work best in calm, structured environments.  
 - **R** – I now understand that I thrive in roles that require problem-solving, strategy, and independent work — which reinforces my interest in software and systems development.
 
 ---
@@ -89,7 +89,7 @@ It includes key reflections and evidence from career development activities, ski
 - **S** – After applying feedback and polishing my draft, I finalized my CV as part of the submission requirement.  
 - **T** – I had to ensure my final CV clearly communicated my readiness for the workplace.  
 - **A** – I made improvements like adding a strong personal profile, and aligning skills with roles I’m targeting.  
-- **R** – I now have a complete, recruiter-ready CV tailored to ICT development roles, and I am confident using it for internship or job applications.
+- **R** – I now have a complete, ready CV tailored to ICT roles, and I am confident in using it for internship or job applications.
 
 ---
 ---
@@ -105,12 +105,12 @@ Each section includes meaningful evidence—from screenshots of Blackboard activ
 - 🧭 **Career Counselling**: I explored my personal values and career goals, leading to the development of a clear and motivating career roadmap.
 - 🛠️ **Skills and Interests**: Through assessments and guided exercises, I identified my strengths and aligned them with suitable roles in the ICT field.
 - 🧬 **Personality Assessment**: I gained deeper insight into how my personality traits influence teamwork, problem-solving, and workplace preferences.
-- 📄 **CV Creation**: I developed and refined a professional CV that accurately represents my academic background, technical skills, and project experience.
+- 📄 **CV Creation**: I developed and refined a professional CV that accurately represents my academic background, technical skills.
 - ✅ **Final Submission**: I finalized my CV to meet industry standards and ensure I am job-ready for internships and future employment.
 
 ### Learning & Experience:
 
-Through this process, I’ve improved not only my self-awareness but also critical workplace competencies such as career planning, reflective thinking, and personal branding. This portfolio is a reflection of the knowledge, effort, and growth I’ve achieved in preparation for transitioning into the ICT industry.
+Through this process, I have improved not only my self-awareness but also critical workplace competencies such as career planning, reflective thinking, and personal branding. This portfolio is a reflection of the knowledge, effort, and growth I have achieved in preparation for transitioning into the ICT industry.
 
 ---
 

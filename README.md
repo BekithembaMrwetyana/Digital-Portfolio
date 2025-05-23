@@ -93,7 +93,8 @@ Welcome to my professional digital portfolio, built as part of the PRP370-1-2S a
 
 ## 📬 Contact
 
-**Name**: *Your Name Here*  
-**Student Number**: *XXXXXXXXX*  
-**Email**: *your.email@cput.ac.za*  
-**GitHub**: [github.com/yourusername](https://github.com/yourusername)
+## Contact Information
+
+- **Student Email**: 222706066@mysput.ac.za  
+- **Personal Email**: mrwetyanabekithemba69@gmail.com  
+- **LinkedIn**: [linkedin.com/in/bekithemba-mrwetyana-663861279](https://www.linkedin.com/in/bekithemba-mrwetyana-663861279)  

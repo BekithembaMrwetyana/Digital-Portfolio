@@ -1,8 +1,8 @@
-# 🎓 Digital Portfolio
+# 🎓 Digital Portfolio - Bekithemba Mrwetyana
 
 Hi, I'm **Bekithemba Mrwetyana**, a final-year student pursuing a Diploma in ICT Applications Development at CPUT. This digital portfolio showcases my growth and experiences during the Work Readiness Program as part of the PRP370-1-2S module.
 
-It includes key reflections and evidence from career development activities, skills assessments, personality profiling, and professional CV creation. Each section is supported by screenshots and structured using the **STAR technique** to highlight my readiness for the professional environment, along with the values and strengths I will bring to the ICT industry.
+It includes key reflections and evidence from career development, skills assessments, personality profiling, and professional CV creation. Each section is supported by screenshots and structured using the **STAR technique** to highlight my readiness for the professional environment, along with the values and strengths I will bring to the ICT industry.
 
 ---
 
@@ -16,7 +16,7 @@ It includes key reflections and evidence from career development activities, ski
 
 ---
 
-## 1️⃣ Career Counselling
+## 1️⃣ Career Counselling/Development
 
 ### 🖼️ Evidence
 
@@ -24,7 +24,7 @@ It includes key reflections and evidence from career development activities, ski
 
 ### 🌟 STAR Reflection
 
-- **S** – I engaged with the *Career Development* section on Blackboard, which emphasized understanding my goals, values, and strengths through reflective exercises, SMART goal-setting, and career planning strategies.  
+- **S** – I engaged with the *Career Development* section on, which emphasized understanding my goals, values, and strengths through reflective exercises, SMART goal-setting, and career planning strategies.  
 - **T** – I needed to develop a career development plan that aligns with my core values and long-term aspirations.  
 - **A** – I identified my values (growth, creativity, freedom), outlined SMART goals, and explored possible career paths like software development and web development.  
 - **R** – I now have a personalized, realistic, and motivating career roadmap and I’ve started identifying opportunities (like internships) that match this path.
@@ -120,7 +120,4 @@ Through this process, I have improved not only my self-awareness but also critic
 - **Personal Email**: mrwetyanabekithemba69@gmail.com  
 - **LinkedIn**: [linkedin.com/in/bekithemba-mrwetyana-663861279](https://www.linkedin.com/in/bekithemba-mrwetyana-663861279)  
 
----
 
-> 🚨 **Note**: This portfolio is submitted for the PRP370-1-2S module as part of my third-year assessment in ICT Applications Development. All reflections are based on work readiness content from the FID module on Blackboard.
- 

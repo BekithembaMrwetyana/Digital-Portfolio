@@ -102,11 +102,11 @@ Each section includes meaningful evidence—from screenshots of Blackboard activ
 
 ### Key Highlights:
 
-- 🧭 **Career Counselling**: I explored my personal values and career goals, leading to the development of a clear and motivating career roadmap.
-- 🛠️ **Skills and Interests**: Through assessments and guided exercises, I identified my strengths and aligned them with suitable roles in the ICT field.
-- 🧬 **Personality Assessment**: I gained deeper insight into how my personality traits influence teamwork, problem-solving, and workplace preferences.
-- 📄 **CV Creation**: I developed and refined a professional CV that accurately represents my academic background, technical skills.
-- ✅ **Final Submission**: I finalized my CV to meet industry standards and ensure I am job-ready for internships and future employment.
+-  **Career Counselling**: I explored my personal values and career goals, leading to the development of a clear and motivating career roadmap.
+-  **Skills and Interests**: Through assessments and guided exercises, I identified my strengths and aligned them with suitable roles in the ICT field.
+-  **Personality Assessment**: I gained deeper insight into how my personality traits influence teamwork, problem-solving, and workplace preferences.
+-  **CV Creation**: I developed and refined a professional CV that accurately represents my academic background, technical skills.
+-  **Final Submission**: I finalized my CV to meet industry standards and ensure I am job-ready for internships and future employment.
 
 ### Learning & Experience:
 
